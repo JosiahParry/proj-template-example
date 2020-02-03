@@ -1,0 +1,3 @@
+Title: googlesheets4 template
+Binding: gs4_skeleton
+OpenFiles: test-script.Rmd
