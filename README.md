@@ -213,7 +213,7 @@ files over\!
 
     Title: googlesheets4 template
     Binding: gs4_skeleton
-    OpenFiles: .Rprofile
+    OpenFiles: test-script.Rmd
 
   - Document, build, install, restart R
   - Create a new

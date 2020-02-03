@@ -235,7 +235,7 @@ We can open the new `gs4_skeleton.dcf` file and edit a few line. There are only 
 ```
 Title: googlesheets4 template
 Binding: gs4_skeleton
-OpenFiles: .Rprofile
+OpenFiles: test-script.Rmd
 ```
 
 - Document, build, install, restart R
